@@ -1,0 +1,32 @@
+body {
+	padding-top: 30px;
+	background: transparent;
+}
+a {
+	text-decoration: none !important;
+	color: inherit !important;
+}
+/*.background {
+	margin: auto;
+}
+.background img {
+	z-index: -1;
+	position: fixed;
+	margin-top: -30px;
+	height: 100%;
+}*/
+.background {
+	display: none;
+}
+.grid-item {
+	width: 50%;
+	padding: 5px;
+}
+.grid-item p {
+	margin-top: 10px;
+	font-size: 20px;
+}
+.thumbnail {
+	background: rgba(255, 255, 255, 0.8);
+	border: none;
+}
